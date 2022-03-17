@@ -1,6 +1,6 @@
 # How To
 
-Clone this repo, then, into the cloned forder, run ```npm install```
+Clone this repo, then, into the cloned forder, run ```npm install``` and then ```npm run build``` for generate the assets folder
 
 In the src/scss/app.scss you put files of bootsrap to use (view the file for examples), same with the src/js/app.js for bootstrap js files.
 
